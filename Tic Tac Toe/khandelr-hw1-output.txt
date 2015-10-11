@@ -1,0 +1,72 @@
+C:\Users\Ramakant Khandel\Desktop\B551>python tic_tac_toe.py
+User Select either X or O : X
+computer_turn : O
+  |   |
+  |   |
+  |   |
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for whic
+h number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 5
+done  False
+def_flag 1  True
+  |   |
+  | X |
+  |   | O
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for whic
+h number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 1
+done  False
+def_flag 1  True
+  |   | O
+  | X |
+X |   | O
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for whic
+h number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 6
+done  False
+def_flag 1  True
+  |   | O
+O | X | X
+X |   | O
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for whic
+h number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 2
+done  False
+def_flag 1  True
+  | O | O
+O | X | X
+X | X | O
+X 's turn
+
+Please select position by typing in a number between 1 and 9, see below for whic
+h number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 7
+Draw

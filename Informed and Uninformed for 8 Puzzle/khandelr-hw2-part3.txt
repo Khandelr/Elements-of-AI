@@ -1,0 +1,18 @@
+1)
+Uninformed Search
+For BFS: The timing increases as it goes deeper into the depth as it has to processes or expand more nodes. 
+For DFS: The timing for DFS can't be determined as it depends on the node we are processing or expanding. Lets say Node A has child B and C. We process all the nodes for child B and only after that we process C. The solution may not be on the node B and childrens of B. In mean time the recursion limit might have reached.
+
+Informed Search: In informed search heuristics is used to expand or process the nodes. This heuristics increases the chances of reaching the goal state in less number of states compared to Uninformed search. The timing for informed search depends on the heuristics. Hence it is difficult to determine the timings for heuristic search.
+
+2 and 3) refer graphs
+
+4) 
+BFS: The time for depth 18 is 55.413. For higher depths it reaches limit reached.
+DFS: The time for depth 30396 is 146.746. For higher depths it reaches limit reached.
+Misplaced Tiles: The time for depth 58 is 0.719.
+Manhattan Distance: The time for depth 44 is 0.453.
+A Star: The time for depth 20 is 0.281
+P.S: Results based on test cases provided. Program executed on my machine. 
+
+  

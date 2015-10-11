@@ -1,0 +1,11 @@
+					HOMEWORK 1
+
+My algorithm is as follows:
+1)	The user selects ‘X’ or ‘O’. If user selects X, will be the first one to start else computer will play first. 
+2)	If computer plays first, it either plays its move in the center or in the corner randomly.
+3)	If user plays first move other than the center then computer plays in the center or else in any of the corner.
+4)	If computer can win from a move, it plays that move
+5)	If the user can win from his next move, computer blocks that move
+6)	If computer can make a move that will lay the foundation for a fork, it plays that move.
+7)	If the user tries to set up the fork from next move, computer plays the move on one of the users winning combination to avoid forking.
+ 
